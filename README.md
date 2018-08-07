@@ -14,3 +14,9 @@ SMW SFC - Super Famicom Cartridge backup. Untouched for SMW hacking.
 ---------------
 ### Usage
 Use with Multipatch or other curent patcher to patch BPS files into Super Nintendo ROMS
+
+---------------
+### Disclaimer
+- I am not responsible for the usage of this data by other people.
+- I do not recommend you using this illegally.
+- Usage is allowed if you own a physical copy of the hosted set of data.
