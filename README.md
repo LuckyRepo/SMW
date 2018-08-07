@@ -1,7 +1,7 @@
 
 ---------------
 # SMW SFC
-SMW SFC - Super Famicom Cartridge backup. Untouched for SMW hacking.
+Super Famicom Cartridge backup. Untouched for SMW hacking.
 
 ---------------
 ## Checksum
